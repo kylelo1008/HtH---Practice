@@ -1,0 +1,23 @@
+Hello World
+Hello World!
+Hello World!  I like anime! How about you?
+I drank 8 glasses of water today.
+4
+-81
+I first became interested in game development
+21.07
+False
+<class 'int'>
+<class 'str'>
+<class 'float'>
+<class 'bool'>
+10
+97
+69.99
+In 2018 gross product of the world (GWP) was 84.84 in trillion US dollars.
+<class 'list'>
+<class 'dict'>
+<class 'tuple'>
+[1, 2, 3, 4, 5]
+{'bacon': 5.99, 'eggs': 3.99, 'Croissants': 7.99}
+('skydiving', 'see Japan', 'find a dragon')
